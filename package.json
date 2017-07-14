@@ -1,0 +1,17 @@
+{
+	"name:": "language-fluka",
+	"version": "0.0.0",
+	"description": "Syntax highligthing support for Atom",
+	"engines": {
+		"ATOM": "*"
+	},
+	"dependencies": {},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ketilroed/language-fluka.git"
+	},
+	"bugs": {
+		"url": "https://github.com/ketilroed/language-fluka/issues"
+	},
+	"license": "MIT"
+}
